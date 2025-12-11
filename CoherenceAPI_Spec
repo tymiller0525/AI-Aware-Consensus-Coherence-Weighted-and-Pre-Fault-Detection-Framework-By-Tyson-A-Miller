@@ -1,0 +1,11 @@
+This document defines a high level example of a Coherence API for research discussion purposes only. It describes possible shapes of communication between distributed systems without revealing any internal logic, algorithms, or computation methods.
+
+The API examples include basic fields such as:
+Node identifiers
+General stability indicators
+Coherence status categories
+Optional descriptive notes
+
+These examples illustrate interface structure only. They do not include scoring rules, weighting systems, detection methods, or any logic that could be reverse engineered. All proprietary mechanisms and computation models remain private and owned exclusively by Tyson A Miller.
+
+This file is intended solely to show conceptual interface shape for academic and research collaboration.
