@@ -1,0 +1,12 @@
+This document outlines high level categories of events that a distributed system might acknowledge when monitoring for fracture, drift, or instability. These categories are conceptual only and do not describe detection mechanics or algorithms.
+
+Example event categories may include:
+Role or function changes
+Sudden instability patterns
+Alignment or coherence drops
+Unexpected behavior shifts
+General drift indicators
+
+These categories are illustrative placeholders meant to show the types of signals a system may classify. They do not include thresholds, rules, calculations, or internal logic. No detection engine or methodology is revealed.
+
+All proprietary detection logic, scoring methods, and computational structures remain private and owned exclusively by Tyson A Miller.
