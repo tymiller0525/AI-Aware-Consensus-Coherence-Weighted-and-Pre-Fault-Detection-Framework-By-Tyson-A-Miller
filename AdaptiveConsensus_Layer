@@ -1,0 +1,12 @@
+This document provides a high level conceptual overview of an adaptive consensus layer that responds to coherence and stability information in distributed systems. All descriptions focus on system behavior categories, not implementation.
+
+Examples of adaptive responses may include:
+Adjusting influence weight of nodes
+Isolating or sandboxing unstable participants
+Increasing priority of coherent behavior
+Reducing impact of drift-prone nodes
+General adaptive routing based on stability signals
+
+These descriptions illustrate only the types of actions a consensus layer might take. No algorithms, weighting formulas, thresholds, or mechanisms are included. No functional logic is disclosed.
+
+All proprietary consensus methods, internal computation structures, and adaptive algorithms remain private and owned exclusively by Tyson A Miller.
